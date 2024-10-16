@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\puntos\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puntos\\pointsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\api\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\api\\userdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|c:\\users\\karit\\desktop\\modelos laboratorio\\nivel laboratorio\\cafeteria\\assets\\script\\menu inicio\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu inicio\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\mover a la board\\draggableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mover a la board\\draggableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\soldar\\solderingtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soldar\\solderingtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\temporizador\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\temporizador\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\soldar\\processorsolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soldar\\processorsolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\mover a la board\\dropzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mover a la board\\dropzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\puntos\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puntos\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\assets\\script\\mover a la board\\draggableobject1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA44D13E-2B68-3DE2-F9C6-189CCF145E6E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mover a la board\\draggableobject1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuInicio.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Menu Inicio\\MenuInicio.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu Inicio\\MenuInicio.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Menu Inicio\\MenuInicio.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu Inicio\\MenuInicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:06:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessorSolder.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Soldar\\ProcessorSolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Soldar\\ProcessorSolder.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Soldar\\ProcessorSolder.cs",
+              "RelativeToolTip": "Assets\\Script\\Soldar\\ProcessorSolder.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:29:05.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolderingTool.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Soldar\\SolderingTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Soldar\\SolderingTool.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Soldar\\SolderingTool.cs",
+              "RelativeToolTip": "Assets\\Script\\Soldar\\SolderingTool.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAIBZwKoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:54:05.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DraggableObject.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DraggableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Mover a la Board\\DraggableObject.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DraggableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Mover a la Board\\DraggableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:49:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Temporizador\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Temporizador\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Temporizador\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Script\\Temporizador\\GameTimer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowDoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:47:59.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsManager.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Puntos\\PointsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Puntos\\PointsManager.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Puntos\\PointsManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Puntos\\PointsManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:23:54.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DraggableObject1.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DraggableObject1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Mover a la Board\\DraggableObject1.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DraggableObject1.cs",
+              "RelativeToolTip": "Assets\\Script\\Mover a la Board\\DraggableObject1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:33:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Puntos\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Puntos\\ObjectManager.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Puntos\\ObjectManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Puntos\\ObjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:42:33.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropZone.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DropZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Mover a la Board\\DropZone.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Mover a la Board\\DropZone.cs",
+              "RelativeToolTip": "Assets\\Script\\Mover a la Board\\DropZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:22:26.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Api\\UserDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Api\\UserDataManager.cs",
+              "ToolTip": "C:\\Users\\karit\\Desktop\\modelos laboratorio\\Nivel Laboratorio\\Cafeteria\\Assets\\Script\\Api\\UserDataManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Api\\UserDataManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:29:33.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
